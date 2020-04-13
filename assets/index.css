@@ -1,6 +1,4 @@
-@font-face {
-	font-family:"KaiTi";src:url(./assets/KaiTi.33937684.ttf) format("truetype")
-}
+
 
 a {
 	color: inherit;
@@ -17,7 +15,8 @@ html,body {
 }
 
 #root {
-	height: 100vh
+
+	
 }
 
 .verses {
